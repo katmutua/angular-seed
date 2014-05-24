@@ -1,1 +1,1 @@
-### Spiking with Angular JS [Feeder App]
+### Spiking with AngularJs [Feeder App]
